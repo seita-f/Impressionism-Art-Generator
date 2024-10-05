@@ -1,6 +1,6 @@
 # Impressionism-Art-Generator
 
-# <Still In Progress>
+# --- Still In Progress ---
 
 ## dataset:
 Impressionist-landscapes-paintings <br>
